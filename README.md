@@ -1,5 +1,6 @@
 # Hospitality-Analytics
 https://app.powerbi.com/view?r=eyJrIjoiY2E2YzM2NmItMjE2ZC00ODdkLTgxMmYtNGJlMDU5ODJmNzM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 Welcome to my 🚀 hospitality data analysis journey with AtliQ Grands in Codebasics 's Resume Challenge.
 **AtliQ Grands Background:** 
 - A renowned brand with 20 years in the industry, facing challenges due to competition and management decisions.
